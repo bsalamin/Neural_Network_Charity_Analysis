@@ -30,4 +30,5 @@ The final deliverable is a binary classifier that is capable of predicting wheth
   * Altering the activation functions of the hidden layers from 'ReLU' to 'tanh'
   * Combining these changes into one smorgus board of a training model.
 
-## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+## Summary
+Attmpts to optimize the original model were largely unsuccessful. Through iterating different parameters of the deep learning model, the highest model accuracy acheived was 72.7%. This is below the target performance of 75% accuracy. Because the output of the model is a binary classification, a recommended alternative may be to use a supervised machine learning model like a random forest classifier 
