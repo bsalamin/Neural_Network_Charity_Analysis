@@ -29,6 +29,10 @@ The final deliverable is a binary classifier that is capable of predicting wheth
   * Changing the number of epochs in the training regimen.
   * Altering the activation functions of the hidden layers from 'ReLU' to 'tanh'
   * Combining these changes into one smorgus board of a training model.
+  
+  
+  <img width="964" alt="Screen Shot 2022-11-02 at 5 34 50 PM" src="https://user-images.githubusercontent.com/100387078/199606997-2e066805-9d28-467d-b604-2026d2c3b477.png">
+
 
 ## Summary
 Attmpts to optimize the original model were largely unsuccessful. Through iterating different parameters of the deep learning model, the highest model accuracy acheived was 72.7%. This is below the target performance of 75% accuracy. Because the output of the model is a binary classification, a recommended alternative may be to use a supervised machine learning model like a random forest classifier 
